@@ -2,7 +2,11 @@
 
 <header>
         <a href="index.php">
-            <h1>Restuarant</h1>
+          <img src="inc/logo.png" alt="">
+            <div>
+                <h2>Eatwell</h2>
+                <h3>Restaurant</h3>
+            </div>
         </a>
         <nav>
             <ul>
@@ -10,7 +14,7 @@
                 <li><a href="about.php">ABOUT US</a></li>
                 <li><a href="">CHEFS</a></li>
                 <li><a href="">MENU</a></li>
-                <li><a href="">GALLERY</a></li>
+                <li><a href="gallery.php">GALLERY</a></li>
                 <li><a href="contact.php">CONTACTS</a></li>
             </ul>
         </nav>
