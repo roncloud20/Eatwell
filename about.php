@@ -1,5 +1,25 @@
 <link rel="stylesheet" href="inc/about.css">
 
+    <header>
+        <a href="index.php">
+            <img src="inc/logo.png" alt="">
+            <div>
+                <h2>Eatwell</h2>
+                <h3>Restaurant</h3>
+            </div>
+        </a>
+        <nav>
+            <ul>
+                <li><a href="index.php">HOME</a></li>
+                <li><a href="about.php">ABOUT US</a></li>
+                <li><a href="">CHEFS</a></li>
+                <li><a href="">MENU</a></li>
+                <li><a href="gallery.php">GALLERY</a></li>
+                <li><a href="contact.php">CONTACTS</a></li>
+            </ul>
+        </nav>
+    </header>
+
 <div class="row">
     <div>
       <img src="inc/eatwell2.jpg" style="margin-left: 80px; width: 600px; height: 550px; margin-top: 0%" alt="">
