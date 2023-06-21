@@ -57,10 +57,15 @@
               <h3>FRESH INGREDIENTS</h3>
             </div>
 
-         </div>
-           
-           
+         </div>     
     </div>
+</div>
+
+<div class="cand">
+  <div class="candy">
+    <h1>DOUBLE CHEESE PIZZA <br> 30% OFF FRIDAY ONLY</h1>
+    <button>BOOK A TABLE</button>
+ </div>
 </div>
  
 

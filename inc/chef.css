@@ -33,52 +33,84 @@ header > nav > ul> li > a {
 body{
     background-color: black;
 }
+ 
+/* OUR CHEFS STYLE */
 
-/* ABOUT STYLE */
-.row{
+.chef{
     display: flex;
-    background-color: black;
-    display-direction: row;
-    align-items: center;
-    margin-top: 100px;
+    background-color: rgb(13, 13, 13);
+}
+
+.our{
     color: white;
-}
-
-.abt{
+    text-align: center;
     margin-left: 5%;
-    margin-top: 0%;
+
+    
+}
+.cheff{
+    display-direction: row;
+    margin-top: 3%;
 
 }
 
-.can{
+img{
+    margin: 20px;
+    
+}
+.name{
     display: flex;
     display-direction: row;
-    align-items: center;
     justify-content: space-between;
-    padding: 0 20px;
-    margin-top: 8%;
+    margin-top: -2%;
 }
-
-.cand{
+.foodcheff{
     display: flex;
-    background-color: rgb(10, 10, 10);
-    margin-top: 5%;
-    height: 200px;
-    width: 90vw;
-    margin-left: 5%;
-
+    display-direction: row;
+    justify-content: space-between;
+    margin-top: -2%;
+}
+.icon{
+    display: flex;
+    display-direction: row;
+    margin-top: -1%;
+    /* justify-content: center; */
+}
+.hilda{
+    margin-left: 3%;
+}
+.dammy{
+    margin-left: 16%;
+}
+.magic{
+    margin-left: 16%;
+}
+.vee{
+    margin-left: 14%;
 }
 
-.candy{
-    color: white;
-    margin-left: 8%;
-}
 
-button{
-    background-color: yellow;
-    width: 45%;
-    height: 6vh;
-    margin-left: 2%;
-    margin-top: 2%;
-    border-style: none;
-}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
