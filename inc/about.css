@@ -13,6 +13,21 @@ header {
 header > a {
     text-decoration: none;
     color: yellow;
+    display: flex;
+}
+
+header > a > div > h3 {
+    margin-top: -20%;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+header > a > div > h2 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+header > a > img {
+    height: 70px;
+    margin-top: 6% ;
 }
 
 header > nav > ul {
