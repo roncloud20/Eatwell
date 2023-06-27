@@ -51,7 +51,9 @@ header > nav > ul> li > a {
 }
 
 body{
-    background-color: black;
+    background-image: url(./Background.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
 }
 
 .head{
@@ -69,4 +71,59 @@ div > h1 {
     color: white;
     font-size: 45px;
     margin-top: 6%;
+}
+
+div > div.con {
+    display: flex;
+}
+
+div > div.con > div.box > form{
+    display: flex;
+    justify-content: space-between;
+    width: 55%;
+    color: white;
+    margin-top: 4%;
+}
+
+div > div.con > div.box > form > div.sub > input {
+    background-color: black;
+    color: white;
+    height: 50px;
+    width: 18rem;
+    border-style: none;
+    margin-left: 5%;
+}
+
+div > div.con > div.box > form > div.sub > h4{
+    color: yellow;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 5%;
+
+}
+
+div > div.con1 {
+    color: white;
+    width: 30%;
+    background-color: black;
+    margin-left: 5%;
+    padding-left: 3%;
+    padding-right: 3%;
+}
+
+div > div.con1 > div {
+    display: flex;
+    justify-content: space-between;
+}
+
+div > div.con1 > hr {
+    margin-top: -3%;
+}
+
+div > div.con > div.box > form > button{
+    background-color: yellow;
+    width: 40%;
+    height: 6vh;
+    margin-left: -120%;
+    margin-top: 100%;
+    border-style: none;
 }
