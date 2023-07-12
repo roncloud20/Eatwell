@@ -6,11 +6,12 @@
         </a>
         <nav>
             <ul>
-                <li><a href="index.php">HOME</a></li>
+            <li><a href="index.php">HOME</a></li>
                 <li><a href="about.php">ABOUT US</a></li>
-                <li><a href="">CHEFS</a></li>
+                <li><a href="chef.php">CHEFS</a></li>
                 <li><a href="">MENU</a></li>
-                <li><a href="">CONTACTS</a></li>
+                <li><a href="gallery.php">GALLERY</a></li>
+                <li><a href="contact.php">CONTACTS</a></li>
             </ul>
         </nav>
     </header>
